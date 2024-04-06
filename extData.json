@@ -1,0 +1,22 @@
+{
+    "info": {
+        "url_png_icon_64x64": "https://dclgnjbi9pxjaanf.public.blob.vercel-storage.com/ba_logo_64.png",
+        "url_png_logo": "https://dclgnjbi9pxjaanf.public.blob.vercel-storage.com/ba_header_logo.png",
+        "location": "",
+        "social": {
+            "twitter_handle": "BalanceData22",
+            "telegram_handle": "",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": ""
+        },
+
+        "about": {
+            "me": "",
+            "server": "",
+            "company": ""
+        }
+    }
+}
