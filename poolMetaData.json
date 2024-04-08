@@ -3,5 +3,5 @@
 "description": "Balance Stake Pool exists to support the Cardano decentralized network by promoting blockchain data transparency for all.",
 "ticker": "BALNC",
 "homepage": "https://balanceanalytics.io",
-"extended": "https://raw.githubusercontent.com/Balance-Analytics-io/PoolData/main/extData.json"
+"extended": "https://raw.githubusercontent.com/perchlabs-io/balnc-pool-data/main/extData.json"
 }
